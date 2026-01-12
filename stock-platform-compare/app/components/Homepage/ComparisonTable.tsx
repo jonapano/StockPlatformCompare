@@ -72,7 +72,7 @@ export default function ComparisonTable() {
               <Image
                 src="/charlesSchwab.jpeg"
                 alt="Schwab"
-                width={60}
+                width={50}
                 height={30}
               />
             </td>

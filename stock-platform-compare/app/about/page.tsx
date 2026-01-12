@@ -53,7 +53,7 @@ export default function AboutPage() {
               content is provided for informational purposes only and should not
               be considered financial advice. Platform details may change over
               time, so users should always verify information directly with the
-              broker.
+              broker before making investment decisions.
             </p>
           </section>
         </div>

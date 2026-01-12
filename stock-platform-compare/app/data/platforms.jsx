@@ -3,9 +3,9 @@ export const platforms = [
     name: "Robinhood",
     logo: "/robinhood.png",
     bestFor: "Beginner investors",
-    fees: "$0 stock & ETF trades",
+    fees: "$0 commission on U.S. stocks & ETFs",
     minDeposit: "$0",
-    rating: "4.5 / 5",
+    platformFocus: "Simple, mobile-first investing",
     description:
       "Robinhood is a commission-free trading platform designed for beginners and casual investors. It offers a simple interface, fractional shares, and a strong mobile experience.",
     pros: [
@@ -25,9 +25,9 @@ export const platforms = [
     name: "Fidelity",
     logo: "/fidelity.png",
     bestFor: "Long-term & retirement investors",
-    fees: "$0 stock & ETF trades",
+    fees: "$0 commission on U.S. stocks & ETFs",
     minDeposit: "$0",
-    rating: "4.7 / 5",
+    platformFocus: "Long-term investing and retirement planning",
     description:
       "Fidelity is a full-service U.S. broker offering strong research tools, retirement accounts, and excellent customer support. It is well-suited for long-term investing.",
     pros: [
@@ -46,9 +46,9 @@ export const platforms = [
     name: "Charles Schwab",
     logo: "/charlesSchwab.jpeg",
     bestFor: "All-around investors",
-    fees: "$0 stock & ETF trades",
+    fees: "$0 commission on U.S. stocks & ETFs",
     minDeposit: "$0",
-    rating: "4.6 / 5",
+    platformFocus: "Balanced investing with education and research",
     description:
       "Charles Schwab is a well-established brokerage offering a balanced mix of research, education, and low-cost trading for investors of all experience levels.",
     pros: [
@@ -67,9 +67,9 @@ export const platforms = [
     name: "Webull",
     logo: "/webull.png",
     bestFor: "Active traders",
-    fees: "$0 stock & ETF trades",
+    fees: "$0 commission on U.S. stocks & ETFs",
     minDeposit: "$0",
-    rating: "4.4 / 5",
+    platformFocus: "Active trading and advanced charting",
     description:
       "Webull is designed for active traders who want advanced charting tools, real-time data, and extended trading hours without paying commissions.",
     pros: [
@@ -85,9 +85,9 @@ export const platforms = [
     name: "Interactive Brokers",
     logo: "/interactiveBrokers.png",
     bestFor: "Professional & international traders",
-    fees: "Very low (tiered & fixed pricing)",
+    fees: "Low-cost tiered and fixed pricing models",
     minDeposit: "$0",
-    rating: "4.8 / 5",
+    platformFocus: "Professional-grade trading and global markets",
     description:
       "Interactive Brokers is a powerful trading platform offering global market access, extremely low fees, and professional-grade tools.",
     pros: [
@@ -103,9 +103,9 @@ export const platforms = [
     name: "E*TRADE",
     logo: "/etrade.png",
     bestFor: "Intermediate to active traders",
-    fees: "$0 stock & ETF trades",
+    fees: "$0 commission on U.S. stocks & ETFs",
     minDeposit: "$0",
-    rating: "4.4 / 5",
+    platformFocus: "Advanced tools with user-friendly access",
     description:
       "E*TRADE offers a solid balance between ease of use and advanced trading tools, making it a good choice for intermediate investors.",
     pros: [

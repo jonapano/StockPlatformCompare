@@ -15,7 +15,7 @@ type Platform = {
   bestFor: string;
   fees: string;
   minDeposit: string;
-  rating: string;
+  platformFocus: string;
   description: string;
   pros: string[];
   cons: string[];
@@ -63,7 +63,7 @@ export function PlatformDetailsDialog({ platform }: { platform: Platform }) {
             <strong>Minimum deposit:</strong> {platform.minDeposit}
           </p>
           <p>
-            <strong>Rating:</strong> {platform.rating}
+            <strong>Platform focus:</strong> {platform.platformFocus}
           </p>
         </div>
 
