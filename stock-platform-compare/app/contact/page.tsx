@@ -49,9 +49,10 @@ export default function ContactPage() {
 
             <button
               type="submit"
-              className="w-full bg-navyblue text-white py-3 rounded-md font-medium hover:bg-blue-900 transition"
+              disabled
+              className="w-full bg-navyblue/50 text-white py-3 rounded-md font-medium"
             >
-              Send Message
+              Send Message (Coming Soon)
             </button>
           </form>
 
